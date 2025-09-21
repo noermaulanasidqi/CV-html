@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Noer Maulana Sidqi</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+    h1, h2 { margin-bottom: 5px; }
+    hr { margin: 15px 0; }
+  </style>
+</head>
+<body>
+  <h1>Noer Maulana Sidqi</h1>
+  <p>Cipinang Baru Utara, Pulogadung, Jakarta Timur | 0813-1624-2527 | noermaulanasidqi1321@gmail.com</p>
+
+  <hr>
+
+  <h2>Tentang Saya</h2>
+  <p>Saya adalah lulusan SMA yang memiliki kemampuan komunikasi yang baik, mudah beradaptasi, dan mampu bekerja sama dalam tim. Saya memiliki motivasi tinggi untuk belajar hal baru serta siap berkontribusi dalam lingkungan kerja yang dinamis dan menantang.</p>
+
+  <h2>Pendidikan</h2>
+  <ul>
+    <li><b>Universitas Telkom Jakarta, S1 Sistem Informasi</b> (2024 - Sekarang)</li>
+    <li><b>SMA Negeri 31 Jakarta</b> – Jurusan IPA (2018 – 2021)</li>
+    <li><b>SMP Negeri 74 Jakarta</b> (2015 – 2018)</li>
+  </ul>
+
+  <h2>Hard Skill</h2>
+  <ul>
+    <li>Ahli dalam aplikasi Canva</li>
+    <li>Ahli dalam aplikasi Capcut</li>
+    <li>ahli dalam Microsoft Word</li>
+  </ul>
+
+  <h2>Soft Skill</h2>
+  <ul>
+    <li>Leadership</li>
+    <li>Ahli dalam negosiasi</li>
+    <li>Diskusi</li>
+    <li>Mudah beradaptasi</li>
+    <li>Mampu bekerja dalam tim</li>
+    <li>Mampu menyelesaikan masalah secara tenang</li>
+    <li>Bahasa Inggris (Pasif)</li>
+    <li>Public speaking</li>
+  </ul>
+
+  <h2>Pengalaman</h2>
+  <li>Pernah bekerja di PT. DEMAZ NOER ABADI sebagai tim gudang (1 Juli 2025 - 25 Agustus 2025).</li>  
+    <li>Pernah menjadi ketua kelas (1 SMP - 2 SMA).</li>
+    <li>Pernah menjadi wakil ketua kelas (3 SMA).</li>
+    <li>Aktif dalam ekskul basket (SD - 2 SMA).</li>
+
+  </ul>
+</body>
+</html>
